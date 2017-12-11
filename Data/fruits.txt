@@ -1,0 +1,11 @@
+fruits
+mango
+apple
+pineapple
+grape
+watermelon
+banana
+orange
+pear
+strawberry
+peach

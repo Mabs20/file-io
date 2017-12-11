@@ -1,0 +1,11 @@
+insects
+ants
+bees
+grasshoppoer
+caterpillars
+moth
+butterflies
+crikets
+beetles
+flies
+wasps

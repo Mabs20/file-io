@@ -1,0 +1,11 @@
+Music Genres
+Blues
+Rap
+Jazz
+Dubstep
+Country
+classical
+Disco
+Elecrto
+Rock
+Folk
